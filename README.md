@@ -26,7 +26,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 ### ✨ For new Chromium Developers
 - [Source Code Documentation](https://chromium.googlesource.com/chromium/src/+/master/docs/README.md)
 - [Source Code](https://chromium.googlesource.com/?format=HTML)
-
+- [Google Disussion Forum](https://groups.google.com/a/chromium.org/forum/#!forum/chromium-discuss)
 ### Chromium Software Architecture
 - [Security Architecture of Chrome](https://seclab.stanford.edu/websec/chromium/chromium-security-architecture.pdf)
 - [Chrome Architecture Anaylysis](https://medium.com/@zicodeng/explore-the-magic-behind-google-chrome-c3563dbd2739)
