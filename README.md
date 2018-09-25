@@ -16,6 +16,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 
 
 ## Getting Started with Chromium
+- [Introduction to Chrome Architecture From CMU]( https://www.sei.cmu.edu/research-capabilities/all-work/display.cfm?customel_datapageid_4050=21328)
 
 ### 📘 History of Chromium
 - [The Google Chrome browser](https://searchmobilecomputing.techtarget.com/definition/Google-Chrome-browser)
@@ -38,4 +39,3 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 - [The Security Architecture of the Chromium Browser](https://css.csail.mit.edu/6.858/2012/readings/chromium.pdf)
 
 ### Comparing Chromium and other browsers
-- [Firefox vs Chrome](https://www.diffen.com/difference/Firefox_vs_Google_Chrome)
