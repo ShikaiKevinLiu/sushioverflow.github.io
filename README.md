@@ -25,6 +25,7 @@ Hello! We are *SushiOverflow*. This is our team's project site for the [Software
 ### Understanding Software Architecture
 - [What is Software Architecture](https://www.ibm.com/developerworks/rational/library/feb06/eeles/index.html)
 - [Definition:Software Architecture](http://www.nyu.edu/classes/jcf/g22.3033-007/slides/session2/g22_3033_011_c23.pdf)
+- [Introduction to Google Chrome From CMU](https://www.sei.cmu.edu/research-capabilities/all-work/display.cfm?customel_datapageid_4050=21328)
 
 ### ✨ For new Chromium Developers
 - [Source Code Documentation](https://chromium.googlesource.com/chromium/src/+/master/docs/README.md)
